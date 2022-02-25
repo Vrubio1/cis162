@@ -1,0 +1,33 @@
+body {background-color:aqua;
+font-family: Lucida Console, Monaco, monospace;}
+
+header {background-color:white; }
+
+
+h1,h2{color: black}
+
+h1 {
+  font-size: 2.5em;
+}
+
+h2 {
+  font-size: 2.5em;
+}
+
+p {
+  font-size: 18px;
+}
+
+ol {
+  font-size: 18px;
+}
+
+nav > ul {line-height:2em;
+list-style-type: none;
+padding-left: 10px;}
+
+section {background-color:blue;
+width:50%;
+font-size:1.5em; }
+
+footer {background-color:white;}
